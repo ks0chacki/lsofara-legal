@@ -1,4 +1,4 @@
-> **Wersja robocza do zatwierdzenia przez Parafię.** Przed publicznym użyciem parafia powinna uzupełnić informacje oznaczone nawiasami kwadratowymi, potwierdzić role administratora i dostawców oraz zatwierdzić podstawy prawne i okresy przechowywania. Sam tekst nie zastępuje oceny prawnej ani wymaganej dokumentacji.
+> **ersja robocza do zatwierdzenia przez Parafię.** Przed publicznym użyciem parafia powinna uzupełnić informacje oznaczone nawiasami kwadratowymi, potwierdzić role administratora i dostawców oraz zatwierdzić podstawy prawne i okresy przechowywania. Sam tekst nie zastępuje oceny prawnej ani wymaganej dokumentacji.
 
 ## Administrator danych i kontakt
 
