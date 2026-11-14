@@ -1,4 +1,4 @@
-> **ersja robocza do zatwierdzenia przez Parafię.** Przed publicznym użyciem parafia powinna uzupełnić informacje oznaczone nawiasami kwadratowymi, potwierdzić role administratora i dostawców oraz zatwierdzić podstawy prawne i okresy przechowywania. Sam tekst nie zastępuje oceny prawnej ani wymaganej dokumentacji.
+> **Wersja robocza do zatwierdzenia przez Parafię.** Przed publicznym użyciem parafia powinna uzupełnić informacje oznaczone nawiasami kwadratowymi, potwierdzić role administratora i dostawców oraz zatwierdzić podstawy prawne i okresy przechowywania. Sam tekst nie zastępuje oceny prawnej ani wymaganej dokumentacji.
 
 ## Administrator danych i kontakt
 
@@ -6,7 +6,7 @@ Administratorem danych jest **Parafia Podwyższenia Krzyża Świętego w Kole**,
 
 Inspektor ochrony danych: **[jeżeli został wyznaczony, wpisz jego dane; jeśli nie, usuń ten punkt]**.
 
-założycielem i autorem aplikacji jest **Kacper Sochacki**. Informacja o autorze technicznym nie przesądza o tym, kto formalnie jest administratorem danych ani o roli autora przy utrzymywaniu serwera.
+Założycielem i autorem aplikacji jest **Kacper Sochacki**. Informacja o autorze technicznym nie przesądza o tym, kto formalnie jest administratorem danych ani o roli autora przy utrzymywaniu serwera.
 
 Wersja robocza: 14 listopada 2026 r. Data zatwierdzenia i wejścia w życie: **[uzupełnić po zatwierdzeniu]**.
 
