@@ -1,3 +1,5 @@
+# Regulamin
+
 > **Wersja robocza do zatwierdzenia przez Parafię.** Przed publicznym użyciem parafia powinna wskazać formalnego usługodawcę, zatwierdzić procedurę reklamacji, zasady dla osób małoletnich i datę wejścia w życie. To projekt przygotowany dla tej aplikacji, a nie porada prawna.
 
 ## 1. Organizator i kontakt

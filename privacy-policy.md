@@ -1,3 +1,5 @@
+# Polityka prywatności
+
 > **Wersja robocza do zatwierdzenia przez Parafię.** Przed publicznym użyciem parafia powinna uzupełnić informacje oznaczone nawiasami kwadratowymi, potwierdzić role administratora i dostawców oraz zatwierdzić podstawy prawne i okresy przechowywania. Sam tekst nie zastępuje oceny prawnej ani wymaganej dokumentacji.
 
 ## Administrator danych i kontakt
@@ -70,12 +72,14 @@ Aplikacja może być używana przez osoby małoletnie. Przed uruchomieniem paraf
 
 Aktualny kod używa technicznych cookies potrzebnych do logowania, bezpieczeństwa i powrotu z dostawcy logowania. Nie służą one do reklamy ani analityki. Maksymalne okresy zapisane w aplikacji:
 
-- `grafik_session` — sesja logowania, do 30 dni; może zostać unieważniona wcześniej;
-- `grafik_device` — rozpoznanie urządzenia w funkcjach bezpieczeństwa, do 365 dni;
-- `grafik_2fa_challenge` — krótkotrwałe potwierdzenie logowania dwuetapowego, do 5 minut;
-- `grafik_oauth_*` — ochrona procesu logowania zewnętrznego, do 10 minut.
+- `lso_session` — sesja logowania, do 365 dni od ostatniej aktywności; może zostać unieważniona wcześniej przez wylogowanie, administratora lub zawieszenie konta;
+- `lso_device_id` — rozpoznanie urządzenia w funkcjach bezpieczeństwa, do 365 dni;
+- `lso_login_challenge` — krótkotrwałe potwierdzenie logowania dwuetapowego, do 5 minut;
+- `lso_oauth_*` — ochrona procesu logowania zewnętrznego, do 10 minut.
 
-Cookies są ustawiane jako HttpOnly i SameSite=Lax; flaga Secure zależy od konfiguracji hostingu. Wylogowanie usuwa cookie sesyjne. Motyw, stan menu, ustawienia powiadomień i część preferencji są zapisywane w pamięci lokalnej przeglądarki. W tej wersji aplikacji nie znaleziono własnego narzędzia analitycznego ani mechanizmu zgody na dodatkowe cookies. Jeśli zostaną dodane inne technologie, informację i sposób uzyskiwania zgody trzeba zaktualizować przed ich uruchomieniem.
+W trakcie migracji istniejące cookies o dawnych nazwach `grafik_*` mogą być odczytane i zastąpione aktualną nazwą przy kolejnym logowaniu lub żądaniu. Nie są to dodatkowe kategorie cookies.
+
+Cookies sesyjne i bezpieczeństwa są ustawiane jako HttpOnly i SameSite=Lax; flaga Secure jest włączana w środowisku produkcyjnym. Cookie sesyjne jest odświeżane podczas aktywnego korzystania z aplikacji. Wylogowanie usuwa cookie sesyjne. Motyw, stan menu, ustawienia powiadomień i część preferencji są zapisywane w pamięci lokalnej przeglądarki. W tej wersji aplikacji nie znaleziono własnego narzędzia analitycznego ani mechanizmu zgody na dodatkowe cookies. Jeśli zostaną dodane inne technologie, informację i sposób uzyskiwania zgody trzeba zaktualizować przed ich uruchomieniem.
 
 ## Adres IP i statystyki odwiedzin
 
