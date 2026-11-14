@@ -6,7 +6,7 @@ Administratorem danych jest **Parafia Podwyższenia Krzyża Świętego w Kole**,
 
 Inspektor ochrony danych: **[jeżeli został wyznaczony, wpisz jego dane; jeśli nie, usuń ten punkt]**.
 
-Założycielem i autorem aplikacji jest **Kacper Sochacki**. Informacja o autorze technicznym nie przesądza o tym, kto formalnie jest administratorem danych ani o roli autora przy utrzymywaniu serwera.
+założycielem i autorem aplikacji jest **Kacper Sochacki**. Informacja o autorze technicznym nie przesądza o tym, kto formalnie jest administratorem danych ani o roli autora przy utrzymywaniu serwera.
 
 Wersja robocza: 14 listopada 2026 r. Data zatwierdzenia i wejścia w życie: **[uzupełnić po zatwierdzeniu]**.
 
