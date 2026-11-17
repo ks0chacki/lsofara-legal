@@ -1,2 +1,2 @@
 # 👋 readme
-Znajdziesz tutaj polityke prywatności i regulamin strony
+Znajdziesz tutaj polityke prywatności i regulamin strony https://lsofara.pl
